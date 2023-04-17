@@ -1,0 +1,7 @@
+Name	Marks	Grade
+-----------------------
+asif	80	pass
+atik	25	fail
+shakib	60	pass
+omor	45	fail
+p	75	pass

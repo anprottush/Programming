@@ -1,0 +1,5 @@
+asif 80  
+atik 25
+shakib 60
+omor 45
+p 75 
